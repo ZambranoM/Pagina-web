@@ -64,7 +64,7 @@ body {
 
 .header {
     height: 60vh !important;
-    background: url(img/header.jpg) no-repeat center;
+    background: url(header.jpg) no-repeat center;
     background-size: cover;
 }
 
@@ -76,13 +76,7 @@ body {
     color: #fff;
 }
 
-.title1 {
-    margin-bottom: 20px;
-    font-size: 30px;
-    font-weight: 300;
-    text-transform: uppercase;
-    color: #fff;
-}
+
 
 p {
     margin-bottom: 40px;
@@ -114,19 +108,7 @@ p {
     margin: 0 10px;
 }
 
-.box-1{
-    
-    background: #fff;
-    text-align: center;
-    height: 4rem;
-    width: 3rem;
-    position: relative;
-    margin: 25px;
-    text-align: center;
-    border-radius: 6rem;
-  
 
-}
 .content {
     height: 50vh;
     display: flex;
@@ -187,7 +169,7 @@ p {
 }
 
 .price {
-    background: url(img/costos.jpg) no-repeat center;
+    background: url(costos.jpg) no-repeat center;
     background-attachment: fixed;
     background-size: cover;
     text-align: center;
@@ -218,3 +200,4 @@ p {
    
     
 }
+
